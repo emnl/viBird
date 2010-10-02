@@ -9,8 +9,8 @@ Administer your lists on twitter.com
 
 ## Screenshots
 
-(http://i56.tinypic.com/352fd04.png)
+[Screen 1](http://i56.tinypic.com/352fd04.png)
 
-(http://i51.tinypic.com/2e214ox.png)
+[Screen 2](http://i51.tinypic.com/2e214ox.png)
 
-(http://i52.tinypic.com/2mmftqw.png)
+[Screen 3](http://i52.tinypic.com/2mmftqw.png)
