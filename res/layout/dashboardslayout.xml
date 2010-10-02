@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="vertical"
+         android:layout_width="fill_parent" 
+         android:layout_height="fill_parent">
+         
+         <TextView 
+         		android:text="List" 
+         		android:id="@+id/dashText" 
+         		android:layout_width="fill_parent" 
+         		android:layout_height="wrap_content"
+         		android:paddingLeft="10px"
+				android:textStyle="bold"
+				android:textColor="#09A5D9" 
+				android:textSize="20px"
+				android:padding="20px"/>
+ 
+     <ListView android:id="@id/android:list"
+               android:layout_width="fill_parent" 
+               android:layout_height="fill_parent"
+               android:layout_weight="1"
+               android:drawSelectorOnTop="false"
+               android:listSelector="@drawable/selector"
+               android:clickable="true"
+               devider="#444444"
+               deviderHeight="1px" 
+               android:dividerHeight="1px" 
+               android:divider="#111111" 
+               android:fadingEdgeLength="80px" 
+               android:fadingEdge="horizontal|vertical"/>
+ 
+     <TextView android:id="@id/android:empty"
+               android:layout_width="fill_parent" 
+               android:layout_height="fill_parent"
+               android:padding="10px" android:gravity="top|center_horizontal"/>
+ 
+</LinearLayout>
